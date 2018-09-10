@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.2.14",
+    "fall-splash-drip": "^1.1.0",
     "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.6"
   }
 }
